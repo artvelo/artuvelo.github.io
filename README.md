@@ -23,6 +23,5 @@ Links to Pages in Notion to keep all the knowledge in 1 place
 * Trips (google maps?)
 
 ### Work
-* Product Manager @Cabify previously worked in several roles in Fintech, Ecommerce, Li-Ion batteries and Research.
-* Industrial Engineer @UPM and Mechanical & Aerospace @IIT
-* CV
+* Product Manager @Cabify previously worked in several roles across Fintech, Ecommerce, Li-Ion batteries and Research.
+* Industrial Engineer @UPM and Mechanical & Aerospace Engineer @IIT

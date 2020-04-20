@@ -23,4 +23,3 @@ About me:
 * Bikes / Touring
 * Hiking
 * Sailing / Kite / Windsurf
-* Trips (Google Maps)

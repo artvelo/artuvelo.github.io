@@ -25,4 +25,4 @@ About me:
 * Bikes / Touring
 * Hiking
 * Sailing / Kite / Windsurf
-* XXX
+* XXX* Sailing / Kite / Windsurf

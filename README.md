@@ -9,8 +9,6 @@ About me:
 * Twitter
 * Linkedin
 * Email
-* Goodreads
-
 
 ### Projects
 
@@ -18,11 +16,11 @@ About me:
   Links to Notion to keep all the knowledge in 1 place
   * Books
   * Articles
-  * Talks
+  * Videos
   * Conferences
 
 ### Personal
 * Bikes / Touring
 * Hiking
 * Sailing / Kite / Windsurf
-* XXX* Sailing / Kite / Windsurf
+* Trips (Google Maps)

@@ -2,25 +2,25 @@
 This is a project to build a personal website.
 
 ## Sections
-About me: 
+About me: Curious generalist, sports outdoors, products...
 
 ### Contact
-
 * Twitter
 * Linkedin
 * Email
 
-### Projects
-
-* Pieces of learning 
-  Links to Notion to keep all the knowledge in 1 place
-  * Books
-  * Articles
-  * Videos
-  * Conferences
+### Pieces of learning 
+Links to Pages in Notion to keep all the knowledge in 1 place
+* Books
+* Articles
+* Talks
+* Courses
 
 ### Personal
 * Bikes / Touring
 * Hiking
 * Sailing / Kite / Windsurf
 * Trips (google maps?)
+
+### Work
+* CV

@@ -2,7 +2,12 @@
 This is a project to build a personal website.
 
 ## Sections
-About me: Curious generalist, sports outdoors, enviroment, tech products, science...
+
+About me: I am a curious person generalist, sports outdoors, enviroment, tech products, science...
+
+### Work
+* Product Manager @Cabify previously worked in several roles across Fintech, Ecommerce, Li-Ion batteries and Research.
+* Industrial Engineer @UPM and Mechanical & Aerospace Engineer @IIT
 
 ### Contact
 * Twitter
@@ -18,16 +23,12 @@ Links to Pages in Notion to keep all the knowledge in 1 place
 
 ### Personal Hobbies
 * 🚲 Bike specially Touring
-* 🏔 Hiking / Ski / Climbing
-* 🌊 Sailing / Kite / Windsurf
-* 💡 Learning from new life perspectives
+* 🏔 Hike / Ski / Climb
+* 🌊 Sail / Kite / Windsurf
+* 💡 Explore different life perspectives
 * 🌳 Enviroment
-
-### Work
-* Product Manager @Cabify previously worked in several roles across Fintech, Ecommerce, Li-Ion batteries and Research.
-* Industrial Engineer @UPM and Mechanical & Aerospace Engineer @IIT
 
 ### Currently exploring
 * Product analytics 
 * Design 
-* Things like: Mental Models, Behavioural Economics, Game Theory...
+* Stuff: Mental Models, Behavioural Economics, Game Theory...

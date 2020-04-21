@@ -17,10 +17,10 @@ Links to Pages in Notion to keep all the knowledge in 1 place
 * Courses
 
 ### Personal Hobbies
-* Bike specially Touring
-* Hiking / Ski / Climbing
-* Sailing / Kite / Windsurf
-* Learning from new cultures perspectives
+* 🚲 Bike specially Touring
+* 🏔 Hiking / Ski / Climbing
+* 🌊 Sailing / Kite / Windsurf
+* 💡 Learning from new cultures perspectives
 
 ### Work
 * Product Manager @Cabify previously worked in several roles across Fintech, Ecommerce, Li-Ion batteries and Research.
@@ -29,4 +29,4 @@ Links to Pages in Notion to keep all the knowledge in 1 place
 ### Currently exploring
 * Product analytics 
 * Design 
-* Things like Mental Models, Behavioural Economics, Game Theory...
+* Things like: Mental Models, Behavioural Economics, Game Theory...

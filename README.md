@@ -16,12 +16,17 @@ Links to Pages in Notion to keep all the knowledge in 1 place
 * Talks
 * Courses
 
-### Personal
-* Bikes / Touring
-* Hiking
+### Personal Hobbies
+* Bike specially Touring
+* Hiking / Ski / Climbing
 * Sailing / Kite / Windsurf
-* Trips (google maps?)
+* Learning from new cultures perspectives
 
 ### Work
 * Product Manager @Cabify previously worked in several roles across Fintech, Ecommerce, Li-Ion batteries and Research.
 * Industrial Engineer @UPM and Mechanical & Aerospace Engineer @IIT
+
+### Currently exploring
+* Product analytics 
+* Design 
+* Things like Mental Models, Behavioural Economics, Game Theory...

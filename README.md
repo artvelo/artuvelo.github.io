@@ -20,7 +20,8 @@ Links to Pages in Notion to keep all the knowledge in 1 place
 * 🚲 Bike specially Touring
 * 🏔 Hiking / Ski / Climbing
 * 🌊 Sailing / Kite / Windsurf
-* 💡 Learning from new cultures perspectives
+* 💡 Learning from new life perspectives
+* 🌳 Enviroment
 
 ### Work
 * Product Manager @Cabify previously worked in several roles across Fintech, Ecommerce, Li-Ion batteries and Research.

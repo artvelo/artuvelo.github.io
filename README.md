@@ -14,7 +14,7 @@ About me: I am a curious person generalist, sports outdoors, enviroment, tech pr
 * Linkedin
 * Email
 
-### Pieces of learning 
+### Pieces of learning
 Links to Pages in Notion to keep all the knowledge in 1 place
 * Books
 * Articles
@@ -25,10 +25,11 @@ Links to Pages in Notion to keep all the knowledge in 1 place
 * 🚲 Bike specially Touring
 * 🏔 Hike / Ski / Climb
 * 🌊 Sail / Kite / Windsurf
+* 🌍 Sustainable life
 * 💡 Explore different life perspectives
-* 🌳 Enviroment
+
 
 ### Currently exploring
-* Product analytics 
-* Design 
+* Product analytics
+* Design
 * Stuff: Mental Models, Behavioural Economics, Game Theory...

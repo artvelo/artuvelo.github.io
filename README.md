@@ -26,7 +26,7 @@ Links to Pages in Notion to keep all the knowledge in 1 place
 * 🏔 Hike / Ski / Climb
 * 🌊 Sail / Kite / Windsurf
 * 🌍 Sustainable life
-* 💡 Explore different life perspectives
+* 💡 Explore different life perspectives 
 
 
 ### Currently exploring
